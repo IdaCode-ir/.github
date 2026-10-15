@@ -2,7 +2,13 @@
 
 <img src="https://raw.githubusercontent.com/IdaCode-ir/.github/main/profile/assets/banner.svg" alt="IdaCode: You bring the idea. Developers bring the code." width="100%">
 
+<br>
+<br>
+
 <img src="https://raw.githubusercontent.com/IdaCode-ir/.github/main/profile/assets/divider.svg" width="100%" alt="">
+
+<br>
+<br>
 
 ## What is IdaCode?
 
@@ -28,7 +34,13 @@ Post your idea or problem, developers see it and respond, and together you turn 
   </tr>
 </table>
 
+<br>
+<br>
+
 <img src="https://raw.githubusercontent.com/IdaCode-ir/.github/main/profile/assets/divider.svg" width="100%" alt="">
+
+<br>
+<br>
 
 ## Tech Stack
 
@@ -37,7 +49,7 @@ Post your idea or problem, developers see it and respond, and together you turn 
 <table align="center">
   <tr>
     <td align="center" valign="middle"><img src="https://raw.githubusercontent.com/IdaCode-ir/.github/main/profile/assets/tag-frontend.svg" width="133" alt="Frontend"></td>
-    <td valign="middle"><img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"> <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"> <img alt="Tailwind_CSS" src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"> <img alt="Zod" src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white"> <img alt="Lottie" src="https://img.shields.io/badge/Lottie-00DDB3?style=for-the-badge&logo=lottiefiles&logoColor=white"></td>
+    <td valign="middle"><img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"> <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"> <img alt="Tailwind_CSS" src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"></td>
   </tr>
   <tr>
     <td align="center" valign="middle"><img src="https://raw.githubusercontent.com/IdaCode-ir/.github/main/profile/assets/tag-backend.svg" width="122" alt="Backend"></td>
@@ -56,7 +68,13 @@ Post your idea or problem, developers see it and respond, and together you turn 
   </tr>
 </table>
 
+<br>
+<br>
+
 <img src="https://raw.githubusercontent.com/IdaCode-ir/.github/main/profile/assets/divider.svg" width="100%" alt="">
+
+<br>
+<br>
 
 <sub>Made with <img src="https://raw.githubusercontent.com/IdaCode-ir/.github/main/profile/assets/heart.svg" height="14" alt="love"> in Iran, for everyone with an idea and everyone who loves to build it.</sub>
 
